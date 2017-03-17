@@ -13,7 +13,7 @@ Documentation from the [No Time to Wait Symposium](https://mediaarea.net/MediaCo
 Day 1
 
 * Introduction: Volkmar Ernst & Jürgen Keiper, Ashley Blewer & Dave Rice | [video](https://www.youtube.com/watch?v=1jL3-6tNVv0)
-* PREFORMA Challenge, Erwin Verbruggen | [video](https://www.youtube.com/watch?v=m5-ommDV9Ac) | [slides](documentation/dissemination/notimetowait/presentations/20160718_berlin_preforma_pdfwithnotes.pdf )
+* PREFORMA Challenge, Erwin Verbruggen | [video](https://www.youtube.com/watch?v=m5-ommDV9Ac) | [slides](presentations/20160718_berlin_preforma_pdfwithnotes.pdf )
 * "FFV1 and Archives: A Short History About Almost Everything", Peter Bubestinger | [video](https://www.youtube.com/watch?v=qPVnSF0oENM) | [slides](https://github.com/preforma/notimetowait/blob/master/presentations/20160718-NoTimeToWait_Symposium.zip)
 * Matroska: A History, Steve Lhomme | [video](https://www.youtube.com/watch?v=UTFsTqXJBHs) | [slides](https://github.com/preforma/notimetowait/blob/master/presentations/A%20History.odp)
 * More Than Just a Wrapper: The Role of Container Formats within Archive Workflows, Tobias Rapp (NOA GmbH) | [video](https://www.youtube.com/watch?v=22gLfOA47vU) | [slides](https://github.com/preforma/notimetowait/blob/master/presentations/ContainerFormatRole.pdf)
